@@ -8,3 +8,7 @@ Clustering:
 
 Binary Classification:
 [Colab](https://colab.research.google.com/drive/1hVZjAxUd1ETBxWANFzRAyPptdsqanO1w?usp=sharing)
+
+
+Regression:  
+[Colab](https://colab.research.google.com/drive/1ZGx_0QQ3BggUlnGm4KM5B2uJwLUYhGPC?usp=sharing)
