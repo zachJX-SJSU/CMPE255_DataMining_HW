@@ -15,3 +15,6 @@ Regression:
   
 Multiclass:  
 [Colab](https://colab.research.google.com/drive/1EKsoEtNAJm2d_2bemJr7O3O_7XkJcVwX?usp=sharing)
+  
+TimeSeries:  
+[Colab](https://colab.research.google.com/drive/13YAHWRyo5jF6sTAZY-eEEL0P-Ez1Sssb?usp=sharing)
