@@ -18,3 +18,7 @@ Multiclass:
   
 TimeSeries:  
 [Colab](https://colab.research.google.com/drive/13YAHWRyo5jF6sTAZY-eEEL0P-Ez1Sssb?usp=sharing)
+
+
+Association Rule Mining (+ Gradio):  
+[Colab](https://colab.research.google.com/drive/1hK5VC2IRBbGIn4IPu9biT8w29-ZqQsDY?usp=sharing)
