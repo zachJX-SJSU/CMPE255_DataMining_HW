@@ -4,7 +4,8 @@ Anomoly detection:
 [Video](https://youtu.be/J4zQBF9rV_c)
 
 Clustering:   
-[Colab](https://colab.research.google.com/drive/1f_h83zzmVgsDQRZcPt_Tw3oMuOZteRAW?usp=sharing)  
+[Colab](https://colab.research.google.com/drive/1f_h83zzmVgsDQRZcPt_Tw3oMuOZteRAW?usp=sharing) |
+[Video](https://youtu.be/CAEDMwXveTI)
 
 
 Binary Classification:
