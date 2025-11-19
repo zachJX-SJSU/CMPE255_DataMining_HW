@@ -13,7 +13,7 @@ Binary Classification:
 Regression:  
 [Colab](https://colab.research.google.com/drive/1ZGx_0QQ3BggUlnGm4KM5B2uJwLUYhGPC?usp=sharing)
   
-Multiclass:  
+Multiclass (+ Gradio):  
 [Colab](https://colab.research.google.com/drive/1EKsoEtNAJm2d_2bemJr7O3O_7XkJcVwX?usp=sharing)
   
 TimeSeries:  
