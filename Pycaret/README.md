@@ -9,7 +9,8 @@ Clustering:
 
 
 Binary Classification:
-[Colab](https://colab.research.google.com/drive/1hVZjAxUd1ETBxWANFzRAyPptdsqanO1w?usp=sharing)
+[Colab](https://colab.research.google.com/drive/1hVZjAxUd1ETBxWANFzRAyPptdsqanO1w?usp=sharing) |
+[Video](https://youtu.be/OhiZkDV0Lis)
 
 
 Regression:  
